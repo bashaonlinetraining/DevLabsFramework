@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 12.49 s <<< FAILURE! - in TestSuite
+com.nopecommerce.scripts.LoginFeature.logintestcase_1001  Time elapsed: 3.715 s  <<< FAILURE!
+java.lang.AssertionError: 
+expected [Login was unsuccessful. Please correct the errors and try again. 
+No customer account found] but found [Login was unsuccessful. Please correct the errors and try again.
+No customer account found]
+	at com.nopecommerce.scripts.LoginFeature.logintestcase_1001(LoginFeature.java:30)
+

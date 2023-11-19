@@ -9,9 +9,9 @@
 			<!-- <class name="Tests.Script1"/> -->
 			 <class name="com.nopecommerce.scripts.LoginFeature"> 
 			<!-- <class name="api.test.UserTests" >  -->
-			<methods>
+			<!-- <methods>
 				<include name = "logintestcase_1001"/>
-			</methods> 
+			</methods>  -->
 			</class>
 		</classes>
 	</test>

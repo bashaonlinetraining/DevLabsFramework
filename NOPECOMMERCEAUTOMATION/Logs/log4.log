@@ -1,11 +1,11 @@
-21:37:09.046 [main] INFO  - https://demo.nopcommerce.com/Launched
-21:37:09.072 [main] INFO  - ****************************************************************************************
-21:37:09.075 [main] INFO  - ****************************************************************************************
-21:37:09.075 [main] INFO  - $$$$$$$$$$$$$$$$$$$$$                 logintestcase_1001       $$$$$$$$$$$$$$$$$$$$$$$$$
-21:37:09.075 [main] INFO  - ****************************************************************************************
-21:37:09.075 [main] INFO  - ****************************************************************************************
-21:37:09.835 [main] INFO  - click on login link in Homepage
-21:37:10.138 [main] INFO  - Enter input to email field on login page
-21:37:10.306 [main] INFO  - Enter input to password field on login page
-21:37:10.834 [main] INFO  - Click on login button on login page
-21:37:11.052 [main] INFO  - XXXXXXXXXXXXXXXXXXXXXXX             -FAILED-             XXXXXXXXXXXXXXXXXXXXXX
+18:04:47.034 [main] INFO  - https://demo.nopcommerce.com/Launched
+18:04:47.049 [main] INFO  - ****************************************************************************************
+18:04:47.049 [main] INFO  - ****************************************************************************************
+18:04:47.050 [main] INFO  - $$$$$$$$$$$$$$$$$$$$$                 logintestcase_1001       $$$$$$$$$$$$$$$$$$$$$$$$$
+18:04:47.050 [main] INFO  - ****************************************************************************************
+18:04:47.050 [main] INFO  - ****************************************************************************************
+18:04:49.032 [main] INFO  - click on login link in Homepage
+18:04:49.540 [main] INFO  - Enter input to email field on login page
+18:04:49.862 [main] INFO  - Enter input to password field on login page
+18:04:50.532 [main] INFO  - Click on login button on login page
+18:04:50.747 [main] INFO  - XXXXXXXXXXXXXXXXXXXXXXX             -FAILED-             XXXXXXXXXXXXXXXXXXXXXX
